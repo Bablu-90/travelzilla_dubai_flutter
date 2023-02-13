@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823565789525",
+    "project_id": "travellzilla-flutter",
+    "storage_bucket": "travellzilla-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823565789525:android:a0a9669073c34b3affa7dc",
+        "android_client_info": {
+          "package_name": "com.app.travelzilla_dubai_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823565789525-empum431fiks5k29t5r58lked323lqqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrNCNNqiCGqP1CsKeXcUt2TzNlQB4OX1Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823565789525-empum431fiks5k29t5r58lked323lqqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
